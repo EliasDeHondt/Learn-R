@@ -7,7 +7,7 @@
 # This program prints a pyramid made of asterisks of a specified height.
 
 # Specify the height of the pyramid
-height <- 5
+height <- 10
 
 # Loop through each level of the pyramid
 for (i in 1:height) {
